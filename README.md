@@ -1,2 +1,6 @@
 # GameWidgets
-Making Pygame Easier!
+
+Welcome To the github Repositry!
+
+**Install**
+\ Mac
