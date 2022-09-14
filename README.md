@@ -19,7 +19,7 @@ Welcome To the github Repositry!
 **Specs**
 
 * 42 Files
-* ~2Kilobytes
+* ~18 Kilobytes
 
 **Files**
 
