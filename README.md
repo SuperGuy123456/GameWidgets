@@ -10,11 +10,11 @@ Welcome To the github Repositry!
 
 * Mac
 
-  ```pip3 install GameWidgets==0.0.7```
+  ```pip3 install GameWidgets==0.0.9```
   
 * Windows
 
-  ```pip install GameWidgets==0.0.7```
+  ```pip install GameWidgets==0.0.9```
 
 **Specs**
 
