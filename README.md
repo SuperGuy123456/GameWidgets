@@ -37,6 +37,10 @@ Welcome To the github Repositry!
 * Hat (In progress)
 * R1_R2 (In progress)
 
+**Functions and their parameters**
+
+*Btn*
+  - __init__()
 
 More info:
 
