@@ -29,9 +29,10 @@ Welcome To the github Repositry!
 * Cursor
 * Sound
 * Animatrix
+* DialogeBox
 * Draw (in progress)
 * Sprite (In progress)
-* Tile (In progress)
+* Tile 
 * ScreenCommands
 * Joystick (In progress)
 * Hat (In progress)
@@ -92,7 +93,20 @@ Animation
   - Update()
   - Draw()
 
-**Test File and others are not shown due to imperfections**
+*DialogeBox*
+
+Simple_YN
+  - __init__(Text=,**kwarg)
+  - Pop_Up()
+
+*Tile*
+
+No Class
+
+Funtions:
+  - Draw(Surface,KEY,MAP,TILESIZE,START_POS,MAX)
+
+**Test Files and others are not shown due to imperfections**
 
 More info:
 
