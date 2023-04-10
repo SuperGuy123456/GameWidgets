@@ -2,7 +2,6 @@
 
 **Check PyPi for download**
 
-*Files not included in Repositry*
 
 Welcome To the github Repositry!
 
