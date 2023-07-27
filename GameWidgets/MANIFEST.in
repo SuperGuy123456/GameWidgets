@@ -1,0 +1,12 @@
+include GameWidgets/RuntimeTests/*
+include GameWidgets/Engine/*
+include GameWidgets/Examples/*
+include GameWidgets/GameWidgets/*
+include GameWidgets/SetUp/*
+include GameWidgets/Widgets/*
+include __init__.py
+include LICENSE.txt
+include README.md
+include setup.cfg
+include setup.py
+include GameWidgets/Assets/*
