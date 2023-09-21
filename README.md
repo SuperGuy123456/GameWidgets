@@ -1,4 +1,4 @@
-# GameWidgets 0.2.0
+# GameWidgets 0.2.1
 ______________
 
 Install GameWidgets by writing one of two things:
